@@ -1,15 +1,10 @@
 #RULE-SET,AntiAd,DIRECT
 payload:
+  - '+.xn--ngstr-lra8j.com'
+  - '+.googleapis.cn'
+  - '+.play-fe.googleapis.com'
   - '+.alibaba.com'
   - '+.gepholding.com'
-
-
-- '+.linkedin.cn
-- '+.linkedin.com
-- '+.bing.com
-- '+.xn--ngstr-lra8j.com
-
-googleapis.cn
-play-fe.googleapis.com
-alibaba.com
-gepholding.com
+  - '+.linkedin.cn'
+  - '+.linkedin.com'
+  - '+.bing.com'
