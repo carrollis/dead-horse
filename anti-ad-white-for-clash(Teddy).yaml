@@ -1,12 +1,11 @@
-#RULE-SET,AntiAd,DIRECT
-payload:
-  - '+.xn--ngstr-lra8j.com'
-  - '+.googleapis.cn'
-  - '+.play-fe.googleapis.com'
-  - '+.alibaba.com'
-  - '+.gepholding.com'
-  - '+.linkedin.cn'
-  - '+.linkedin.com'
-  - '+.bing.com'
-  - '+.a0.app.xiaomi.com'
-  - '+.shouji.sougou.com'
+# 功能：去广告(自定义白名单)
+
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN,play-fe.googleapis.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,gepholding.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN,a0.app.xiaomi.com
+DOMAIN,shouji.sougou.com
