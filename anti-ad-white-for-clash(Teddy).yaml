@@ -2,10 +2,10 @@
 
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN,play-fe.googleapis.com
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,gepholding.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN,a0.app.xiaomi.com
-DOMAIN,shouji.sougou.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN,alibaba.com
+DOMAIN,gepholding.com
+DOMAIN,linkedin.com
+DOMAIN,bing.com
+DOMAIN-SUFFIX,a0.app.xiaomi.com
+DOMAIN-SUFFIX,shouji.sougou.com
