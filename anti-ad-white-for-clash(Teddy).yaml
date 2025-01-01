@@ -1,8 +1,8 @@
 # 功能：自定义白名单
 
-DOMAIN,alibaba.com
-DOMAIN,gepholding.com
-DOMAIN,linkedin.com
-DOMAIN,bing.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,gepholding.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,shouji.sougou.com
