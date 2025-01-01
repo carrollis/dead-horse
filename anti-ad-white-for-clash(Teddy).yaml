@@ -1,8 +1,5 @@
-# 功能：去广告(自定义白名单)
+# 功能：自定义白名单
 
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,play-fe.googleapis.com
 DOMAIN,alibaba.com
 DOMAIN,gepholding.com
 DOMAIN,linkedin.com
